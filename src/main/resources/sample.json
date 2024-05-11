@@ -1,0 +1,21 @@
+{
+  "restaurantName": "Al-Aqsa Restaurant",
+  "restaurantAddress": "2104 Starling Ave",
+  "restaurantCity": "Bronx",
+  "restaurantState": "New York",
+  "restaurantZip" : "10465",
+  "restaurantPhone": "303-322-4568"
+}
+
+{
+  "employeeFirstName": "Gemmy",
+  "employeeLastName": "Burns",
+  "employeePhone": "347-261-5558",
+  "employeeJobTitle": "Manager"
+}
+
+{
+  "customerFirstName": "Sherlin",
+  "customerLastName": "Huda",
+  "customerEmail": "sherlin@noodellas.r.us"
+}
